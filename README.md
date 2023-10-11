@@ -14,9 +14,9 @@ Chương trình sẽ giúp Valorant của bạn có chức năng hiển thị "M
 
 SẢN PHẨM ĐƯỢC PHÁT TRIỂN BỞI NEAR.
 Các bạn có thể ủng hộ và theo dõi, đồng thời nhận hỗ trợ từ mình tại:
-  YouTube: https://youtube.com/notravenuit
-  TikTok: https://www.tiktok.com/@notravenuit
-  Discord: https://discord.gg/xQFm6AMncp
+YouTube: https://youtube.com/notravenuit
+TikTok: https://www.tiktok.com/@notravenuit
+Discord: https://discord.gg/xQFm6AMncp
 
 Update Version 1.1:
 - Các bạn truy cập theo đường dẫn (build/exe.win-amd64-3.11/VALORANTBloodDisplay.exe) để chạy chương trình
