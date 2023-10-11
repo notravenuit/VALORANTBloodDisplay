@@ -1,11 +1,13 @@
 # VALORANTBloodDisplay
 Chương trình sẽ giúp Valorant của bạn có chức năng hiển thị "M.á.u" và "T.h.i t.h.ể" - 2 tính năng không khả thi tại server Valorant Việt Nam do VNG phát hành.
+![10](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/41d587eb-558a-43f4-a32a-86ec046d857d)
 
 **Hướng dẫn sử dụng:**
 
   - Mở Riot Client trước khi chạy chương trình
   - Chạy file **_VALORANTBloodDisplay.exe_**
   - Vào game, vào setting, bật tính năng "Hiển thị nội dung dành cho người lớn" để hiển thị 2 tính năng nêu trên
+![chek](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/4b3d9ae2-750a-480c-a749-fb21a49545f8)
 
 **Lưu ý:**
   - Hãy đảm bảo rằng đường dẫn của VALORANT tương tự: **_{Ổ đĩa}:\Riot Games\VALORANT_** - Với **_{Ổ đĩa}_** có thể được thay thế bằng {C}, {D}, {E}... Nếu không chương trình sẽ không thể chạy thành công.
