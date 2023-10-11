@@ -1,7 +1,8 @@
 # VALORANTBloodDisplay
 Chương trình sẽ giúp Valorant của bạn có chức năng hiển thị "M.á.u" và "T.h.i t.h.ể" - 2 tính năng không khả thi tại server Valorant Việt Nam do VNG phát hành.
 
-![10](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/41d587eb-558a-43f4-a32a-86ec046d857d)
+![Uploading Untitled.png…]()
+
 
 **Hướng dẫn sử dụng:**
 
