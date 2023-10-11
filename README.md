@@ -3,8 +3,8 @@ Chương trình sẽ giúp Valorant của bạn có chức năng hiển thị "M
 
 **Hướng dẫn sử dụng:**
 
-  1. Mở Riot Client trước khi chạy chương trình
-  2.Chạy file **_main.exe_**
+  - Mở Riot Client trước khi chạy chương trình
+  - Chạy file **_VALORANTBloodDisplay.exe_**
 
 **Lưu ý:**
   - Hãy đảm bảo rằng đường dẫn của VALORANT tương tự: **_{Ổ đĩa}:\Riot Games\VALORANT_** - Với **_{Ổ đĩa}_** có thể được thay thế bằng {C}, {D}, {E}... Nếu không chương trình sẽ không thể chạy thành công.
